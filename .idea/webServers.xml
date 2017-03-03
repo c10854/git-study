@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d472dd3-a79b-4109-b66a-31120699e1d0" name="www.ci.com" url="http://www.localhost.com">
+        <fileTransfer host="127.0.0.1" port="32772" rootFolder="/home/wwwroot/www.ci.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="32772" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
