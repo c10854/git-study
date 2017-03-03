@@ -21,7 +21,7 @@ class Welcome extends CI_Controller
      */
     public function index()
     {
-        echo 123;die;die;
+        echo 123;die;
 //		$this->load->view('welcome_message');
 //        $url = 'http://www.getfavicon.org/get.pl?url=blog.gdvodka.cn&submitget=get+favicon';
         $url = 'http://favicon.byi.pw/?url=blog.gdvodka.cn';
